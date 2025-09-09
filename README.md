@@ -19,9 +19,9 @@ npm install
 
 ## API Docs
 
-Navigate to see how [API Auth is handled](google.com)
+Navigate to see how [API Auth is handled](https://www.google.com/)
 
-Navigate for [Trading Strategies API endpoints](google.com)
+Navigate for [Trading Strategies API endpoints](https://www.google.com/)
 
 ## Run Tests
 In Bash terminal, execute script:
